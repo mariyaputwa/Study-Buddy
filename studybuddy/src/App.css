@@ -1,0 +1,40 @@
+body {
+  background-color: #e8f4f8;
+}
+
+.navbar {
+  background-color: #5eb7b7;
+}
+
+.navbar-brand {
+  color: #ffffff;
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+button {
+  background-color: #3aafa9;
+  color: #ffffff;
+}
+
+button:disabled {
+  background-color: #c4c4c4;
+}
+
+li {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+}
+
+
+li.complete {
+  background-color: #b2f7ef;
+}
